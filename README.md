@@ -2,7 +2,7 @@
 
 Um projeto desenvolvido em Python para praticar lógica de programação.
 
-## 🚀 Funcionalidades
+Funcionalidades
 
 - Adicionar filmes
 - Listar filmes
@@ -12,14 +12,14 @@ Um projeto desenvolvido em Python para praticar lógica de programação.
 - Dar nota
 - Marcar como assistido
 
-## 🛠 Tecnologias
+Tecnologias
 
 - Python
 - VS Code
 - Git
 - GitHub
 
-## 📚 O que aprendi
+O que aprendi
 
 - Listas
 - Dicionários
@@ -28,7 +28,7 @@ Um projeto desenvolvido em Python para praticar lógica de programação.
 - Funções básicas
 - Entrada e saída de dados
 
-## 🔮 Próximas melhorias
+Próximas melhorias
 
 - Salvar os filmes em JSON
 - Editar filmes
